@@ -482,7 +482,29 @@ MonoBehaviour:
   m_CaretColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_CustomCaretColor: 0
   m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
-  m_Text: Glados is angry grrrr
+  m_Text: 'Hello, it''s me
+
+    I was wondering if after all these years you''d like
+    to meet
+
+    To go over everything
+
+    They say that time''s supposed to heal
+    ya
+
+    But I ain''t done much healing
+
+    Hello, can you hear me?
+
+    I''m
+    in California dreaming about who we used to be
+
+    When we were younger and
+    free
+
+    I''ve forgotten how it felt
+
+    Before the world fell at our feet'
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
@@ -1147,7 +1169,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Glados is angry grrrr\u200B"
+  m_text: "Hello, it's me\nI was wondering if after all these years you'd like to
+    meet\nTo go over everything\nThey say that time's supposed to heal ya\nBut I
+    ain't done much healing\nHello, can you hear me?\nI'm in California dreaming
+    about who we used to be\nWhen we were younger and free\nI've forgotten how it
+    felt\nBefore the world fell at our feet\u200B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
