@@ -1,3 +1,4 @@
+Check out the project video on our devpost: https://devpost.com/software/t-k-s-snackrifice
 ## Inspiration
 
 We were inspired by the lore of **Knight Hacks 2025** and the **Google Gemini challenges**. We wanted to test ourselves with something novel, so we decided to create a virtual reality game which is hosted by an agent that **respond to player actions in real time**. 
